@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.aafade2b.css",
-    "main.js": "/static/js/main.ff60376c.js",
-    "static/media/loginBg.jpg": "/static/media/loginBg.f42ecb4bc8e4c4ed24be.jpg",
-    "index.html": "/index.html",
-    "main.aafade2b.css.map": "/static/css/main.aafade2b.css.map",
-    "main.ff60376c.js.map": "/static/js/main.ff60376c.js.map"
+    "main.css": "/kurunagai-web-releases/static/css/main.13a3c0c5.css",
+    "main.js": "/kurunagai-web-releases/static/js/main.3ecd554f.js",
+    "static/media/loginBg.jpg": "/kurunagai-web-releases/static/media/loginBg.f42ecb4bc8e4c4ed24be.jpg",
+    "index.html": "/kurunagai-web-releases/index.html",
+    "main.13a3c0c5.css.map": "/kurunagai-web-releases/static/css/main.13a3c0c5.css.map",
+    "main.3ecd554f.js.map": "/kurunagai-web-releases/static/js/main.3ecd554f.js.map"
   },
   "entrypoints": [
-    "static/css/main.aafade2b.css",
-    "static/js/main.ff60376c.js"
+    "static/css/main.13a3c0c5.css",
+    "static/js/main.3ecd554f.js"
   ]
 }
