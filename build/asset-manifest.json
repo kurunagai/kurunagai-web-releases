@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kurunagai-web-releases/static/css/main.13a3c0c5.css",
-    "main.js": "/kurunagai-web-releases/static/js/main.a9bd9d0b.js",
+    "main.js": "/kurunagai-web-releases/static/js/main.d8dde2b5.js",
     "static/media/loginBg.jpg": "/kurunagai-web-releases/static/media/loginBg.f42ecb4bc8e4c4ed24be.jpg",
     "index.html": "/kurunagai-web-releases/index.html",
     "main.13a3c0c5.css.map": "/kurunagai-web-releases/static/css/main.13a3c0c5.css.map",
-    "main.a9bd9d0b.js.map": "/kurunagai-web-releases/static/js/main.a9bd9d0b.js.map"
+    "main.d8dde2b5.js.map": "/kurunagai-web-releases/static/js/main.d8dde2b5.js.map"
   },
   "entrypoints": [
     "static/css/main.13a3c0c5.css",
-    "static/js/main.a9bd9d0b.js"
+    "static/js/main.d8dde2b5.js"
   ]
 }
